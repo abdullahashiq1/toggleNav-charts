@@ -1,0 +1,27 @@
+[
+    {
+      "id": 1,
+      "name": "Standard Package",
+      "price": 29.99,
+      "features": ["Basic Features", "Limited Support", "User Management", "Data Backup"],
+      "description": "A basic package suitable for small businesses.",
+      "duration": "Monthly"
+    },
+    {
+      "id": 2,
+      "name": "Premium Package",
+      "price": 39.99,
+      "features": ["Advanced Features", "Priority Support", "Customization Options", "Performance Analytics"],
+      "description": "An advanced package with additional features and priority support.",
+      "duration": "Monthly"
+    },
+    {
+      "id": 3,
+      "name": "Ultimate Package",
+      "price": 49.99,
+      "features": ["Premium Features", "24/7 Support", "Unlimited Storage", "Dedicated Account Manager"],
+      "description": "The ultimate package with premium features and 24/7 support.",
+      "duration": "Monthly"
+    }
+  ]
+  
